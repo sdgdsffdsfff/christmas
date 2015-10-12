@@ -1,0 +1,96 @@
+start£º
+
+{ x: 0, y: 0, duration: 1},{ x: 58, y: 0, duration: 1},{ x: 116, y: 0, duration: 1},{ x: 174, y: 0, duration: 1},{ x: 232, y: 0, duration: 1},
+{ x: 0, y: 64, duration: 1},{ x: 58, y: 64, duration: 1},{ x: 116, y: 64, duration: 1},{ x: 174, y: 64, duration: 1},{ x: 232, y: 64, duration: 1},
+{ x: 0, y: 128, duration: 1},{ x: 58, y: 128, duration: 1},{ x: 116, y: 128, duration: 1},{ x: 174, y: 128, duration: 1},{ x: 232, y: 128, duration: 1},
+{ x: 0, y: 192, duration: 1},{ x: 58, y: 192, duration: 1},{ x: 116, y: 192, duration: 1},{ x: 174, y: 192, duration: 1},{ x: 232, y: 192, duration: 1},
+{ x: 0, y: 256, duration: 1},{ x: 58, y: 256, duration: 1},{ x: 116, y: 256, duration: 1},{ x: 174, y: 256, duration: 1},{ x: 232, y: 256, duration: 1},
+
+ÄÐ2£º
+{ x: 0, y: 0, duration: 1},{ x: 213, y: 0, duration: 1},{ x: 426, y: 0, duration: 1},{ x: 639, y: 0, duration: 1},{ x: 852, y: 0, duration: 1},
+{ x: 1065, y: 0, duration: 1},{ x: 1278, y: 0, duration: 1},{ x: 1491, y: 0, duration: 1},{ x: 1704, y: 0, duration: 1},{ x: 1917, y: 0, duration: 1},
+
+{ x: 0, y: 116, duration: 1},{ x: 213, y: 116, duration: 1},{ x: 426, y: 116, duration: 1},{ x: 639, y: 116, duration: 1},{ x: 852, y: 116, duration: 1},
+{ x: 1065, y: 116, duration: 1},{ x: 1278, y: 116, duration: 1},{ x: 1491, y: 116, duration: 1},{ x: 1704, y: 116, duration: 1},{ x: 1917, y: 116, duration: 1},
+
+{ x: 0, y: 232, duration: 1},{ x: 213, y: 232, duration: 1},{ x: 426, y: 232, duration: 1},{ x: 639, y: 232, duration: 1},{ x: 852, y: 232, duration: 1},
+{ x: 1065, y: 232, duration: 1},{ x: 1278, y: 232, duration: 1},{ x: 1491, y: 232, duration: 1},{ x: 1704, y: 232, duration: 1},{ x: 1917, y: 232, duration: 1},
+
+{ x: 0, y: 348, duration: 1},{ x: 213, y: 348, duration: 1},{ x: 426, y: 348, duration: 1},{ x: 639, y: 348, duration: 1},{ x: 852, y: 348, duration: 1},
+{ x: 1065, y: 348, duration: 1},{ x: 1278, y: 348, duration: 1},{ x: 1491, y: 348, duration: 1},{ x: 1704, y: 348, duration: 1},{ x: 1917, y: 348, duration: 1},
+
+{ x: 0, y: 464, duration: 1},{ x: 213, y: 464, duration: 1},{ x: 426, y: 464, duration: 1},{ x: 639, y: 464, duration: 1},{ x: 852, y: 464, duration: 1},
+{ x: 1065, y: 464, duration: 1},{ x: 1278, y: 464, duration: 1},{ x: 1491, y: 464, duration: 1},{ x: 1704, y: 464, duration: 1},{ x: 1917, y: 464, duration: 1},
+
+{ x: 0, y: 580, duration: 1},{ x: 213, y: 580, duration: 1},{ x: 426, y: 580, duration: 1},{ x: 639, y: 580, duration: 1},{ x: 852, y: 580, duration: 1},
+{ x: 1065, y: 580, duration: 1},{ x: 1278, y: 580, duration: 1},{ x: 1491, y: 580, duration: 1},{ x: 1704, y: 580, duration: 1},{ x: 1917, y: 580, duration: 1},
+
+{ x: 0, y: 696, duration: 1},{ x: 213, y: 696, duration: 1},{ x: 426, y: 696, duration: 1},{ x: 639, y: 696, duration: 1},{ x: 852, y: 696, duration: 1},
+{ x: 1065, y: 696, duration: 1},{ x: 1278, y: 696, duration: 1},{ x: 1491, y: 696, duration: 1},{ x: 1704, y: 696, duration: 1},{ x: 1917, y: 696, duration: 1},
+
+{ x: 0, y: 812, duration: 1},{ x: 213, y: 812, duration: 1},{ x: 426, y: 812, duration: 1},{ x: 639, y: 812, duration: 1},{ x: 852, y: 812, duration: 1},
+{ x: 1065, y: 812, duration: 1},{ x: 1278, y: 812, duration: 1},{ x: 1491, y: 812, duration: 1},{ x: 1704, y: 812, duration: 1},{ x: 1917, y: 812, duration: 1},
+
+{ x: 0, y: 928, duration: 1},{ x: 213, y: 928, duration: 1},{ x: 426, y: 928, duration: 1},{ x: 639, y: 928, duration: 1},{ x: 852, y: 928, duration: 1},
+{ x: 1065, y: 928, duration: 1},{ x: 1278, y: 928, duration: 1},{ x: 1491, y: 928, duration: 1},{ x: 1704, y: 928, duration: 1},{ x: 1917, y: 928, duration: 1},
+
+{ x: 0, y: 1044, duration: 1},{ x: 213, y: 1044, duration: 1},{ x: 426, y: 1044, duration: 1},{ x: 639, y: 1044, duration: 1},{ x: 852, y: 1044, duration: 1},
+{ x: 1065, y: 1044, duration: 1},{ x: 1278, y: 1044, duration: 1},{ x: 1491, y: 1044, duration: 1},{ x: 1704, y: 1044, duration: 1},{ x: 1917, y: 1044, duration: 1},
+
+
+
+2nv
+
+{ x: 0, y: 0, duration: 1},{ x: 77, y: 0, duration: 1},{ x: 154, y: 0, duration: 1},{ x: 231, y: 0, duration: 1},{ x: 308, y: 0, duration: 1},{ x: 385, y: 0, duration: 1},
+
+{ x: 0, y: 100, duration: 1},{ x: 77, y: 100, duration: 1},{ x: 154, y: 100, duration: 1},{ x: 231, y: 100, duration: 1},{ x: 308, y: 100, duration: 1},{ x: 385, y: 100, duration: 1},
+
+{ x: 0, y: 200, duration: 1},{ x: 77, y: 200, duration: 1},{ x: 154, y: 200, duration: 1},{ x: 231, y: 200, duration: 1},{ x: 308, y: 200, duration: 1},{ x: 385, y: 100, duration: 1},
+
+
+nv2.3
+
+{ x: 0, y: 0, duration: 1},{ x: 77, y: 0, duration: 1},{ x: 154, y: 0, duration: 1},{ x: 231, y: 0, duration: 1},{ x: 308, y: 0, duration: 1},{ x: 385, y: 0, duration: 1},{ x: 462, y: 0, duration: 1},{ x: 539, y: 0, duration: 1},
+
+{ x: 0, y: 100, duration: 1},{ x: 77, y: 100, duration: 1},{ x: 154, y: 100, duration: 1},{ x: 231, y: 100, duration: 1},{ x: 308, y: 100, duration: 1},{ x: 385, y: 100, duration: 1},{ x: 462, y: 100, duration: 1},{ x: 539, y: 100, duration: 1},
+
+{ x: 0, y: 200, duration: 1},{ x: 77, y: 200, duration: 1},{ x: 154, y: 200, duration: 1},{ x: 231, y: 200, duration: 1},{ x: 308, y: 200, duration: 1},{ x: 385, y: 200, duration: 1},{ x: 462, y: 200, duration: 1},{ x: 539, y: 200, duration: 1},
+
+{ x: 0, y: 300, duration: 1},{ x: 77, y: 300, duration: 1},{ x: 154, y: 300, duration: 1},{ x: 231, y: 300, duration: 1},{ x: 308, y: 300, duration: 1},{ x: 385, y: 300, duration: 1},{ x: 462, y: 300, duration: 1},{ x: 539, y: 300, duration: 1},
+
+{ x: 0, y: 400, duration: 1},{ x: 77, y: 400, duration: 1},{ x: 154, y: 400, duration: 1},{ x: 231, y: 400, duration: 1},{ x: 308, y: 400, duration: 1},{ x: 385, y: 400, duration: 1},{ x: 462, y: 400, duration: 1},{ x: 539, y: 400, duration: 1},
+
+{ x: 0, y: 500, duration: 1},{ x: 77, y: 500, duration: 1},{ x: 154, y: 500, duration: 1},{ x: 231, y: 500, duration: 1},{ x: 308, y: 500, duration: 1},{ x: 385, y: 500, duration: 1},{ x: 462, y: 500, duration: 1},{ x: 539, y: 500, duration: 1},
+
+
+
+nan4
+
+{ x: 0, y: 0, duration: 1},{ x: 72, y: 0, duration: 1},{ x: 144, y: 0, duration: 1},{ x: 216, y: 0, duration: 1},{ x: 288, y: 0, duration: 1},
+
+{ x: 0, y: 90, duration: 1},{ x: 72, y: 90, duration: 1},{ x: 144, y: 90, duration: 1},{ x: 216, y: 90, duration: 1},{ x: 288, y: 90, duration: 1},
+
+{ x: 0, y: 180, duration: 1},{ x: 72, y: 180, duration: 1},{ x: 144, y: 180, duration: 1},{ x: 216, y: 180, duration: 1},{ x: 288, y: 180, duration: 1},
+
+{ x: 0, y: 270, duration: 1},{ x: 72, y: 270, duration: 1},{ x: 144, y: 270, duration: 1},{ x: 216, y: 270, duration: 1},{ x: 288, y: 270, duration: 1},
+
+{ x: 0, y: 360, duration: 1},{ x: 72, y: 360, duration: 1},{ x: 144, y: 360, duration: 1},{ x: 216, y: 360, duration: 1},{ x: 288, y: 360, duration: 1},
+
+
+
+end
+
+{ x: 0, y: 0, duration: 1},{ x: 127, y: 0, duration: 1},{ x: 254, y: 0, duration: 1},{ x: 381, y: 0, duration: 1},{ x: 508, y: 0, duration: 1},{ x: 635, y: 0, duration: 1},
+{ x: 762, y: 0, duration: 1},{ x: 889, y: 0, duration: 1},{ x: 1016, y: 0, duration: 1},{ x: 1143, y: 0, duration: 1},{ x: 1270, y: 0, duration: 1},
+
+{ x: 0, y: 111, duration: 1},{ x: 127, y: 111, duration: 1},{ x: 254, y: 111, duration: 1},{ x: 381, y: 111, duration: 1},{ x: 508, y: 111, duration: 1},{ x: 635, y: 111, duration: 1},
+{ x: 762, y: 111, duration: 1},{ x: 889, y: 111, duration: 1},{ x: 1016, y: 111, duration: 1},{ x: 1143, y: 111, duration: 1},{ x: 1270, y: 111, duration: 1},
+
+{ x: 0, y: 222, duration: 1},{ x: 127, y: 222, duration: 1},{ x: 254, y: 222, duration: 1},{ x: 381, y: 222, duration: 1},{ x: 508, y: 222, duration: 1},{ x: 635, y: 222, duration: 1},
+{ x: 762, y: 222, duration: 1},{ x: 889, y: 222, duration: 1},{ x: 1016, y: 222, duration: 1},{ x: 1143, y: 222, duration: 1},{ x: 1270, y: 222, duration: 1},
+
+{ x: 0, y: 333, duration: 1},{ x: 127, y: 333, duration: 1},{ x: 254, y: 333, duration: 1},{ x: 381, y: 333, duration: 1},{ x: 508, y: 333, duration: 1},{ x: 635, y: 333, duration: 1},
+{ x: 762, y: 333, duration: 1},{ x: 889, y: 333, duration: 1},{ x: 1016, y: 333, duration: 1},{ x: 1143, y: 333, duration: 1},{ x: 1270, y: 333, duration: 1},
+
+{ x: 0, y: 444, duration: 1},{ x: 127, y: 444, duration: 1},{ x: 254, y: 444, duration: 1},{ x: 381, y: 444, duration: 1},{ x: 508, y: 444, duration: 1},{ x: 635, y: 444, duration: 1},
+{ x: 762, y: 444, duration: 1},{ x: 889, y: 444, duration: 1},{ x: 1016, y: 444, duration: 1},{ x: 1143, y: 444, duration: 1},{ x: 1270, y: 444, duration: 1},
